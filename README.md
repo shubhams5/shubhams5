@@ -13,11 +13,9 @@ I have 6+ years of experience building scalable backend systems and web applicat
 
 ## Featured Projects
 
-### [json-to-sql](https://github.com/shubhams5/json-to-sql)
-[One line on what it does, e.g. converts JSON data into SQL schemas and insert statements.]
-**Tech:** [languages and tools used]
+**[json-to-sql](https://github.com/shubhams5/json-to-sql)**: Local-first tool that turns JSON into a SQL schema, dialect-specific SQL, and Express/NestJS CRUD code (Prisma or TypeORM). Tech: TypeScript.
 
-*More projects coming soon.*
+**[rag-servicenow-app](https://github.com/shubhams5/rag-servicenow-app)**: RAG over a ServiceNow knowledge base using Elasticsearch ELSER and hybrid search, with FastAPI and local LLMs. Tech: Python, FastAPI, Elasticsearch.
 
 ## Connect
 
